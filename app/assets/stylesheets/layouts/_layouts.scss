@@ -1,0 +1,7 @@
+@use "../utilities/colors";
+
+.bg {
+  &-beige {
+    background-color: colors.$beige;
+  }
+}

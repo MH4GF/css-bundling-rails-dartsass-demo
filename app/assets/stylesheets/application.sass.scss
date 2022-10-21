@@ -1,7 +1,3 @@
 // Entry point for your Sass build
 
-.bg {
-  &-beige {
-    background-color: beige;
-  }
-}
+@use "layouts";
